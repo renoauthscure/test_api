@@ -1,0 +1,14 @@
+{
+	"id_notifications":["97UqgEao6bhGHajTpXolPhVbJkm1"],
+    "id_customer": "f1344217-a955-48ef-b9d2-0724c9f09f77",
+    "currency" : "MYR",
+    "amount" :  25,
+    "price": 26,
+    "id_merchant" : "d77c49f5-830b-4822-8b13-5db29db922d4",
+    "id_category" : "a0f4a6c3-77ed-4517-b055-a05ae0d993a6",
+    "is_balking" : false,
+    "redeem_method" : 0,
+    "quantity" :3,
+    "is_full_cash" : true,
+    "cancel_timeout" : 10
+}
